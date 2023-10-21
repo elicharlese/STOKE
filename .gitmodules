@@ -1,0 +1,3 @@
+[submodule "src/front-end/submodule"]
+	path = src/front-end/submodule
+	url = https://github.com/elicharlese/Automatic
