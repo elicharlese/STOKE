@@ -1,0 +1,11 @@
+/Users/elicharlese/Team CEC Dropbox/Elias Estrada/ECE/Professional/Trader/STOKE/my-project/contract/target/debug/deps/borsh-1688c1d5bb604522.rmeta: /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/lib.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/de/mod.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/de/hint.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/schema.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/schema_helpers.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/ser/mod.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/ser/helpers.rs
+
+/Users/elicharlese/Team CEC Dropbox/Elias Estrada/ECE/Professional/Trader/STOKE/my-project/contract/target/debug/deps/borsh-1688c1d5bb604522.d: /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/lib.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/de/mod.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/de/hint.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/schema.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/schema_helpers.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/ser/mod.rs /Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/ser/helpers.rs
+
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/lib.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/de/mod.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/de/hint.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/schema.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/schema_helpers.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/ser/mod.rs:
+/Users/elicharlese/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.9.3/src/ser/helpers.rs:
