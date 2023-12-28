@@ -1,32 +1,34 @@
-# STOKE
+# STOKE - Collaborative Cryptocurrency Trading Platform
 
-STOKE is a financial trading platform inspired by Webull. It's designed to provide a powerful yet user-friendly interface for both novice and experienced traders. With STOKE, you can trade stocks, ETFs, options, and more with ease.
+## Overview
+
+STOKE is a revolutionary platform designed to transform the cryptocurrency trading experience. It empowers retail traders by fostering a global community that collaborates, shares insights, and makes collective decisions. STOKE's unique approach aims to redefine how traders engage with the dynamic cryptocurrency market.
 
 ## Features
-Real-time market data: Stay updated with the latest market trends and make informed decisions.
-Advanced charting tools: Analyze market trends with our comprehensive and easy-to-use charting tools.
-Portfolio management: Keep track of your investments and analyze your performance over time.
-News and analysis: Stay informed with the latest news and expert analysis within the platform.
-Paper trading: Practice your trading strategies without risking real money.
 
-## Installation
-Clone the repository:
+- **Micro-Fund Management:** Create and join micro-funds with other traders to pool resources and make collective investment decisions.
+- **Community Scripts and Signals:** Share and explore community-driven trading scripts and signals for informed decision-making.
+- **Educational Resources:** Access a wealth of educational materials to enhance trading skills and knowledge.
+- **Transparent Governance:** STOKE is committed to transparency, providing clear governance and decision-making processes within the community.
 
-git
-Navigate to the project directory:
+## Getting Started
 
-STOKE
-Install the dependencies:
+To get started with STOKE, follow these simple steps:
 
-install
-Start the application:
+1. **Sign Up:** Create an account on the STOKE platform.
+2. **Explore Features:** Explore the micro-fund management tools, community scripts, and educational resources.
+3. **Connect with the Community:** Engage with fellow traders, share insights, and collaborate within the STOKE community.
 
-start
-Contributing
-We welcome contributions from the community. Please read our contributing guide for more information.
+## Contributing
+
+If you are interested in contributing to STOKE, please check out our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
-STOKE is licensed under the MIT License.
 
-## Disclaimer
-Trading involves risks and is not suitable for everyone. You could lose substantially more than your initial investment. You should consider whether trading is suitable for you in light of your own financial situation, objectives, and risk tolerance. STOKE is a tool to help you make informed decisions, but it does not provide financial advice.
+STOKE is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or support, please contact our team at support@stoke.com.
+
+Happy Trading with STOKE!
