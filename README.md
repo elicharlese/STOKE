@@ -4,6 +4,8 @@
 
 STOKE is a revolutionary platform designed to transform the cryptocurrency trading experience. It empowers retail traders by fostering a global community that collaborates, shares insights, and makes collective decisions. STOKE's unique approach aims to redefine how traders engage with the dynamic cryptocurrency market.
 
+[STOKE](https://stoke.framer.ai) - [GG20]() - [Web3 Foundations Grants]()
+
 ## Features
 
 - **Micro-Fund Management:** Create and join micro-funds with other traders to pool resources and make collective investment decisions.
