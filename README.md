@@ -1,4 +1,4 @@
-# STOKE - Collaborative Cryptocurrency Trading Platform
+# STOKE - Collaborative Trading Platform
 
 ## Overview
 
